@@ -38,5 +38,6 @@
   #### IOS Deployment Target
   * 14.4 (iPhone SE ~ iPhone 12 pro max)
  ------
-------
-  
+### CocoaPods Library
+* SimpleAlertPickers
+
