@@ -25,3 +25,18 @@
 
 ### 실행 영상
 [<img width="500" alt="1" src="https://user-images.githubusercontent.com/70096347/110198379-65518400-7e95-11eb-9b38-a5b33c1f642f.png">](https://www.youtube.com/watch?v=EdJdf26V84E)
+
+-------
+
+### Version
+----
+
+  #### Swift Version
+   * Swift 5
+  #### Xcode Version
+  * 12.4
+  #### IOS Deployment Target
+  * 14.4 (iPhone SE ~ iPhone 12 pro max)
+ ------
+------
+  
