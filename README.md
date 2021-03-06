@@ -22,3 +22,6 @@
 <img width="700" alt="11" src="https://user-images.githubusercontent.com/70096347/110198431-c5e0c100-7e95-11eb-9399-5636edca687f.png">
 
 ---------
+
+### 실행 영상
+[<img width="500" alt="1" src="https://user-images.githubusercontent.com/70096347/110198379-65518400-7e95-11eb-9b38-a5b33c1f642f.png">](https://www.youtube.com/watch?v=EdJdf26V84E)
